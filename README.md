@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="[#-Pagina]">Pagina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -21,6 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 E um projeto de uma pagina que descreve tudo sobre um protudo, no caso "Um oculos do Google".<br>
 Tem a pagina: principal, especificaçoes, fotos, multimidia e contatos.
 
-## 🔖 Pagina
+## 🔖 Layout
 
 Você pode visualizar a pagina em :https://google-glass-2a8ao9inl-maikonpaiva.vercel.app
